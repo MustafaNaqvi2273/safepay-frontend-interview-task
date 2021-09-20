@@ -9,3 +9,6 @@ venv/**
 
 # all data
 **/*.db
+
+# node modules
+**/node_modules
